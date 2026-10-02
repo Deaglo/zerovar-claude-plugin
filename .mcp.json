@@ -1,0 +1,6 @@
+{
+  "zerovar-fx": {
+    "type": "http",
+    "url": "https://api.zerovar.com/mcp"
+  }
+}

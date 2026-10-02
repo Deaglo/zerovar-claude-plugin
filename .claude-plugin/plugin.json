@@ -1,0 +1,14 @@
+{
+  "name": "fx-maestro",
+  "displayName": "FX Maestro",
+  "version": "1.0.0",
+  "description": "FX analysis for a ZeroVaR account. Indicative rates, forwards, and hedge comparisons. Maestro does not execute trades.",
+  "author": {
+    "name": "ZeroVaR",
+    "email": "support@zerovar.com"
+  },
+  "homepage": "https://zerovar.com",
+  "repository": "https://github.com/Deaglo/zerovar-claude-plugin",
+  "license": "LicenseRef-ZeroVaR-Plugin",
+  "keywords": ["fx", "hedging", "zerovar"]
+}
