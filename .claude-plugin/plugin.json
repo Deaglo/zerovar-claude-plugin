@@ -1,7 +1,7 @@
 {
   "name": "fx-maestro",
   "displayName": "FX Maestro",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "FX analysis for a ZeroVaR account. Indicative rates, forwards, and hedge comparisons. Maestro does not execute trades.",
   "author": {
     "name": "Deaglo Technologies Inc.",
