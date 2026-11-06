@@ -1,7 +1,7 @@
 {
   "name": "fx-maestro",
   "displayName": "FX Maestro",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "FX analysis for a ZeroVaR account. Indicative rates, forwards, and hedge comparisons. Maestro does not execute trades.",
   "author": {
     "name": "Deaglo Technologies Inc.",
@@ -19,6 +19,6 @@
   "icon": ".claude-plugin/icon.png",
   "privacyPolicyUrl": "https://zerovar.com/privacy",
   "termsOfServiceUrl": "https://zerovar.com/terms",
-  "supportUrl": "mailto:support@zerovar.com",
-  "documentationUrl": "https://rd.deaglo.com/claude"
+  "supportUrl": "https://zerovar.com",
+  "documentationUrl": "https://github.com/Deaglo/zerovar-claude-plugin"
 }
